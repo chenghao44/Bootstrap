@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>Register</h1>
+<h2>UserRegisterRequestModel</h2>
+<body>
+    <div>
+        <p><input type="text" placeholder="Email" ></p>
+        <p><input type="password" placeholder="password"></p>
+        <p><input type="password" placeholder="ConfirmedPassword"></p>
+        <p><input type="text" placeholder="FirstName"></p>
+        <p><input type="text" placeholder="LastName"></p>
+        <p>DateOfBirth</p>
+        <p><input type="date" placeholder="DateOfBirth"></p>
+    </div>
+    <a href="http://www.google.com" target="_blank"><button>Create</button></a>
+</body>
+</html>
